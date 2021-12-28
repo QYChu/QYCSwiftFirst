@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import QYCSwiftFirst
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let hello = HelloWorld();
+        hello.hello();
     }
 
     override func didReceiveMemoryWarning() {
