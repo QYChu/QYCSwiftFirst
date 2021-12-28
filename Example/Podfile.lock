@@ -1,0 +1,16 @@
+PODS:
+  - QYCSwiftFirst (0.1.0)
+
+DEPENDENCIES:
+  - QYCSwiftFirst (from `../`)
+
+EXTERNAL SOURCES:
+  QYCSwiftFirst:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QYCSwiftFirst: 415f00a9728f21f3c112c0fdb72691a0cb171858
+
+PODFILE CHECKSUM: 1ec60da152bd325c7e13e0794b40e5088b0e22ce
+
+COCOAPODS: 1.7.3

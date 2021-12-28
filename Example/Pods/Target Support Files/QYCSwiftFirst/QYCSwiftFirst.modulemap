@@ -1,0 +1,6 @@
+framework module QYCSwiftFirst {
+  umbrella header "QYCSwiftFirst-umbrella.h"
+
+  export *
+  module * { export * }
+}
