@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'QYCSwiftFirst_Example' do
+  pod 'QYCSwiftFirst', :path => '../'
+
+  target 'QYCSwiftFirst_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
